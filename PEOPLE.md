@@ -1,3 +1,3 @@
-Haskell Curry
+Koko Meme
 
 Jojo Meme
